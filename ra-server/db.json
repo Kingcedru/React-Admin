@@ -59,13 +59,13 @@
       "category_id": 2,
       "title": "Dog in the Grass",
       "width": 16,
-      "height": 20,
-      "price": 25,
+      "height": 22,
+      "price": 30,
       "thumbnail": "https://marmelab.com/posters/animals-2.jpeg",
       "image": "https://marmelab.com/posters/animals-2.jpeg",
       "description": "A happy dog rolling on green grass.",
       "stock": 10,
-      "sales": 23
+      "sales": 50
     },
     {
       "id": 2,

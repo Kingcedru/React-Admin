@@ -690,6 +690,16 @@
       "description": "An apricot tree in full bloom.",
       "stock": 31,
       "sales": 7
+    },
+    {
+      "id": "0",
+      "category_id": 10,
+      "title": "Coach",
+      "width": 20,
+      "height": 19,
+      "price": 29,
+      "stock": null,
+      "sales": null
     }
   ]
 }
